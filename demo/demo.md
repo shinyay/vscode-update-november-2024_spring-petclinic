@@ -8,7 +8,19 @@ This script demonstrates the capabilities of GitHub Copilot in Visual Studio Cod
 
 ### [Start a code editing session with Copilot Edits](https://code.visualstudio.com/updates/v1_95#_start-a-code-editing-session-with-copilot-edits)
 
-1. Open a Copilot Edits
+1. Open `Copilot Edits`
+
+![Image](https://github.com/user-attachments/assets/381f9e16-7e09-4da3-bfe8-3090aba8e338)
+
+2. Add Owner related classes
+
+Add the following files to working set:
+
+- `Owner.java`
+- `OwnerController.java`
+- `OwnerRepository.java`
+
+3. Input the following prompt:
 
 ```text
 I want to add a attribute to Owner class which is Age. And I want to add APIs and their endpoints to operate Owner class with age as a key.

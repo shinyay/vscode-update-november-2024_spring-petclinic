@@ -29,3 +29,6 @@ I want to add a attribute to Owner class which is Age. And I want to add APIs an
 <details><summary>Prompt sample</summary>
 <img src="https://github.com/user-attachments/assets/9b7faed3-3caf-4b23-989d-b7611cfea18b">
 </details>
+
+<details><summary>Copilot Answer sample</summary>
+<video src="https://github.com/user-attachments/assets/07cdde99-167d-40d2-8189-12a9451a85ff" controls="true"></video>

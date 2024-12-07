@@ -34,3 +34,19 @@ I want to add a attribute to Owner class which is Age. And I want to add APIs an
 <video src="https://github.com/user-attachments/assets/07cdde99-167d-40d2-8189-12a9451a85ff" controls="true"></video>
 
 ### [Copilot Chat in Secondary Side Bar](https://code.visualstudio.com/updates/v1_95#_chat-in-the-secondary-side-bar)
+
+### [Copilot code reviews](https://code.visualstudio.com/updates/v1_95#_copilot-code-reviews)
+
+### [Automatic chat participant detection](https://code.visualstudio.com/updates/v1_95#_automatic-chat-participant-detection)
+
+### [Control current editor context](https://code.visualstudio.com/updates/v1_95#_control-current-editor-context)
+
+### [Interactive workspace symbol links](https://code.visualstudio.com/updates/v1_95#_interactive-workspace-symbol-links)
+
+### [Fix using Copilot action in the Problem hover](https://code.visualstudio.com/updates/v1_95#_fix-using-copilot-action-in-the-problem-hover)
+
+### [Workspace indexing](https://code.visualstudio.com/updates/v1_95#_workspace-indexing)
+
+### [Sort by relevance in Semantic Search (Experimental)]()
+
+### [Copilot extensibility](https://code.visualstudio.com/updates/v1_95#_copilot-extensions-showcase)

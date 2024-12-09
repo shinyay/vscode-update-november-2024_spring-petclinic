@@ -47,6 +47,6 @@ I want to add a attribute to Owner class which is Age. And I want to add APIs an
 
 ### [Workspace indexing](https://code.visualstudio.com/updates/v1_95#_workspace-indexing)
 
-### [Sort by relevance in Semantic Search (Experimental)]()
+### [Sort by relevance in Semantic Search (Experimental)](https://code.visualstudio.com/updates/v1_95#_sort-by-relevance-in-semantic-search-experimental)
 
 ### [Copilot extensibility](https://code.visualstudio.com/updates/v1_95#_copilot-extensions-showcase)

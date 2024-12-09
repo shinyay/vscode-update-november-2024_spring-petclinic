@@ -66,7 +66,9 @@ You can delegate code reviews to GitHub Copilot to review changes, rather than h
 
 - There are two ways to use Copilot code review in VS Code:
   - Review selection
-  - Review changes
+    - Select the code you want to review
+     `Copilot` > `Review and Comment` from the **Editor Context Menu**
+    - `GitHub Copilot: Review and Comment` command from the **Command Palette**
 
 
 ### [Automatic chat participant detection](https://code.visualstudio.com/updates/v1_95#_automatic-chat-participant-detection)

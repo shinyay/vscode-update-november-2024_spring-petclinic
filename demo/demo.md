@@ -32,6 +32,7 @@ I want to add a attribute to Owner class which is Age. And I want to add APIs an
 
 <details><summary>Copilot Answer sample</summary>
 <video src="https://github.com/user-attachments/assets/07cdde99-167d-40d2-8189-12a9451a85ff" controls="true"></video>
+</details>
 
 ### [Copilot Chat in Secondary Side Bar](https://code.visualstudio.com/updates/v1_95#_chat-in-the-secondary-side-bar)
 

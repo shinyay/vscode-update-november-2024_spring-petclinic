@@ -46,9 +46,19 @@ In the case of Command Center:
 
 ![Image](https://github.com/user-attachments/assets/030847a6-6d56-4f69-bdf4-062e3cf3cb81)
 
+👇
+
 ![Image](https://github.com/user-attachments/assets/39541db2-4cd5-4dc5-95b2-3d1c82580acf)
 
+👇
+
 ![Image](https://github.com/user-attachments/assets/5522eb77-2d67-44e4-a1e9-d00be46fd7d5)
+
+#### Keyboard Shortcuts
+
+In the case of Keyboard Shortcuts:
+
+- `Ctrl` + `Alt` + `I` to open the Copilot Chat
 
 ### [Copilot code reviews](https://code.visualstudio.com/updates/v1_95#_copilot-code-reviews)
 

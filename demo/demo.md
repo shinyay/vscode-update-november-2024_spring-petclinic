@@ -62,6 +62,13 @@ In the case of Keyboard Shortcuts:
 
 ### [Copilot code reviews](https://code.visualstudio.com/updates/v1_95#_copilot-code-reviews)
 
+You can delegate code reviews to GitHub Copilot to review changes, rather than human reviewers.
+
+- There are two ways to use Copilot code review in VS Code:
+  - Review selection
+  - Review changes
+
+
 ### [Automatic chat participant detection](https://code.visualstudio.com/updates/v1_95#_automatic-chat-participant-detection)
 
 ### [Control current editor context](https://code.visualstudio.com/updates/v1_95#_control-current-editor-context)

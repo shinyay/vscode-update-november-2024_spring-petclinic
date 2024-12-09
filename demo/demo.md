@@ -36,6 +36,20 @@ I want to add a attribute to Owner class which is Age. And I want to add APIs an
 
 ### [Copilot Chat in Secondary Side Bar](https://code.visualstudio.com/updates/v1_95#_chat-in-the-secondary-side-bar)
 
+Originally you can found the GitHub Copilot Chat view in the primary side bar. Now you can see it in the secondary side bar as a default.
+
+![Image](https://github.com/user-attachments/assets/acdea5ea-b8cb-4945-a0d3-1d097ff60010)
+
+#### Command Center
+
+In the case of Command Center:
+
+![Image](https://github.com/user-attachments/assets/030847a6-6d56-4f69-bdf4-062e3cf3cb81)
+
+![Image](https://github.com/user-attachments/assets/39541db2-4cd5-4dc5-95b2-3d1c82580acf)
+
+![Image](https://github.com/user-attachments/assets/5522eb77-2d67-44e4-a1e9-d00be46fd7d5)
+
 ### [Copilot code reviews](https://code.visualstudio.com/updates/v1_95#_copilot-code-reviews)
 
 ### [Automatic chat participant detection](https://code.visualstudio.com/updates/v1_95#_automatic-chat-participant-detection)

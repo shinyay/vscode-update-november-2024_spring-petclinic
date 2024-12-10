@@ -106,6 +106,15 @@ You might have seen chat participants in the Copilot Chat, like following:
 
 ![Image](https://github.com/user-attachments/assets/acc246cb-e65c-4dff-95af-0a6c91197e27)
 
+Originally, `Chat Participant` had to explicitly specify which one to add, but now the context is interpreted and chat participant is automatically added as needed.
+
+1. Open `Copilot Chat`
+
+2. Input the following prompt:
+
+```text
+How does this Spring boot application accept user requests and resond to them?
+```
 
 ### [Control current editor context](https://code.visualstudio.com/updates/v1_95#_control-current-editor-context)
 

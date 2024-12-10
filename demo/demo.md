@@ -137,6 +137,14 @@ In the case of not hiding the current file, you always use the current file as a
 
 ### [Interactive workspace symbol links](https://code.visualstudio.com/updates/v1_95#_interactive-workspace-symbol-links)
 
+Copilot Chat generates links to symbols in your workspace. You can click on these links to navigate to the symbol in the editor. And also you can drag and drop the link to the editor to insert the symbol.
+
+![Image](https://github.com/user-attachments/assets/68fee647-3b5a-49d2-bfc2-9609a4e3a7b2)
+
+![Image](https://github.com/user-attachments/assets/30622ebb-43da-4cc9-9cc6-cc5694616bc1)
+
+<video src="https://github.com/user-attachments/assets/42b01235-a62b-4ac8-8ffd-94902c1195a0" controls="true"></video>
+
 ### [Fix using Copilot action in the Problem hover](https://code.visualstudio.com/updates/v1_95#_fix-using-copilot-action-in-the-problem-hover)
 
 ### [Workspace indexing](https://code.visualstudio.com/updates/v1_95#_workspace-indexing)

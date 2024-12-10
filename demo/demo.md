@@ -126,7 +126,13 @@ Copilot Chat has always included the currenlty opened file or your currenlt sele
 You can hide your current visible file with ![Image](https://github.com/user-attachments/assets/f886428c-e611-4e2a-8240-9e8cdfca33b6)
 
 ![Image](https://github.com/user-attachments/assets/74a72649-4923-4941-9ba7-769c8550147b)
+
+In the case of hiding the current file:
+
 ![Image](https://github.com/user-attachments/assets/ff8c2f7a-d147-485f-a8fe-29f3bd646e0b)
+
+In the case of not hiding the current file, you always use the current file as a context:
+
 ![Image](https://github.com/user-attachments/assets/9352d62d-97de-446e-978a-9f89f37be798)
 
 ### [Interactive workspace symbol links](https://code.visualstudio.com/updates/v1_95#_interactive-workspace-symbol-links)

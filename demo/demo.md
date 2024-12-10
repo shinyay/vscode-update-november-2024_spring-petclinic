@@ -62,6 +62,45 @@ In the case of Keyboard Shortcuts:
 
 ### [Copilot code reviews](https://code.visualstudio.com/updates/v1_95#_copilot-code-reviews)
 
+You can delegate code reviews to GitHub Copilot to review changes, rather than human reviewers.
+
+- There are two ways to use Copilot code review in VS Code:
+  - Review selection
+    - Select the code you want to review
+     `Copilot` > `Review and Comment` from the **Editor Context Menu**
+    - `GitHub Copilot: Review and Comment` command from the **Command Palette**
+  - Review Changes
+    - Select the `Copilot Code Review button` in the **Source Control view**
+
+1. Open `Copilot Edits`
+
+2. Add Owner related classes
+
+Add the following files to working set:
+
+- `Owner.java`
+- `OwnerController.java`
+- `OwnerRepository.java`
+
+3. Input the following prompt:
+
+```text
+I want to add a attribute to Owner class which is Age. And I want to add APIs and their endpoints to operate Owner class with age as a key.
+```
+
+4. Accept the Copilot suggestion
+
+5. Select Source Control view
+
+6. Select the `Copilot Code Review` button
+
+![Image](https://github.com/user-attachments/assets/e15481de-d09c-4a77-987a-caa41e27ceff)
+
+👇
+
+![Image](https://github.com/user-attachments/assets/7e07cc5e-18a2-4521-be93-db7156ae0894)
+
+
 ### [Automatic chat participant detection](https://code.visualstudio.com/updates/v1_95#_automatic-chat-participant-detection)
 
 ### [Control current editor context](https://code.visualstudio.com/updates/v1_95#_control-current-editor-context)

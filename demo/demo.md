@@ -151,7 +151,7 @@ Copilot Chat generates links to symbols in your workspace. You can click on thes
 
 ![Image](https://github.com/user-attachments/assets/68fee647-3b5a-49d2-bfc2-9609a4e3a7b2)
 
-2. And drop to the editor
+4. Drop a simbol to the editor
 
 ![Image](https://github.com/user-attachments/assets/30622ebb-43da-4cc9-9cc6-cc5694616bc1)
 

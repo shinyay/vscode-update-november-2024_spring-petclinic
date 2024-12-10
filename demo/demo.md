@@ -72,6 +72,10 @@ You can delegate code reviews to GitHub Copilot to review changes, rather than h
   - Review Changes
     - Select the `Copilot Code Review button` in the **Source Control view**
 
+![Image](https://github.com/user-attachments/assets/e15481de-d09c-4a77-987a-caa41e27ceff)
+
+👇
+
 ![Image](https://github.com/user-attachments/assets/7e07cc5e-18a2-4521-be93-db7156ae0894)
 
 

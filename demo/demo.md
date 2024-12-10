@@ -121,6 +121,14 @@ How does this Spring boot application accept user requests and resond to them?
 
 ### [Control current editor context](https://code.visualstudio.com/updates/v1_95#_control-current-editor-context)
 
+Copilot Chat has always included the currenlty opened file or your currenlt selection. But sometimes, when you ask a question that is not about your current editor, including this context might affect how the model interprets your question.
+
+You can hide your current visible file with ![Image](https://github.com/user-attachments/assets/f886428c-e611-4e2a-8240-9e8cdfca33b6)
+
+![Image](https://github.com/user-attachments/assets/74a72649-4923-4941-9ba7-769c8550147b)
+![Image](https://github.com/user-attachments/assets/ff8c2f7a-d147-485f-a8fe-29f3bd646e0b)
+![Image](https://github.com/user-attachments/assets/9352d62d-97de-446e-978a-9f89f37be798)
+
 ### [Interactive workspace symbol links](https://code.visualstudio.com/updates/v1_95#_interactive-workspace-symbol-links)
 
 ### [Fix using Copilot action in the Problem hover](https://code.visualstudio.com/updates/v1_95#_fix-using-copilot-action-in-the-problem-hover)

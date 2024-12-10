@@ -155,7 +155,11 @@ Copilot Chat generates links to symbols in your workspace. You can click on thes
 
 ![Image](https://github.com/user-attachments/assets/30622ebb-43da-4cc9-9cc6-cc5694616bc1)
 
-3. Click the link
+5. Right click on a simbol
+
+- ![Image](https://github.com/user-attachments/assets/085ff93d-2480-452e-b33d-9633c0f36930)
+
+6. Click on a simbol
 
 <video src="https://github.com/user-attachments/assets/42b01235-a62b-4ac8-8ffd-94902c1195a0" controls="true"></video>
 

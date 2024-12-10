@@ -169,12 +169,18 @@ You can use Copilot to fix problems in your code directly from the problem hover
 
 1. Open any file, which includes a problem. (In this case, `PetTypeFormatter.java`)
 
-<video src="https://github.com/user-attachments/assets/1f149536-6b0d-45e2-ae5d-36dbaf275fde" controls="true"></video>
-
 2. Hover over the problem
+
+<video src="https://github.com/user-attachments/assets/1f149536-6b0d-45e2-ae5d-36dbaf275fde" controls="true"></video>
 
 ### [Workspace indexing](https://code.visualstudio.com/updates/v1_95#_workspace-indexing)
 
+You can start indexing with the command `GitHub Copilot: Build Local Workspace index` from the Command Palette.
+
+- ![Image](https://github.com/user-attachments/assets/eb7ab966-7547-4a43-9e70-c79f7444313c)
+
 ### [Sort by relevance in Semantic Search (Experimental)](https://code.visualstudio.com/updates/v1_95#_sort-by-relevance-in-semantic-search-experimental)
+
+<video src="https://github.com/user-attachments/assets/e9dccd05-91ac-4226-9758-a9211d31cc83" controls="true"></video>
 
 ### [Copilot extensibility](https://code.visualstudio.com/updates/v1_95#_copilot-extensions-showcase)

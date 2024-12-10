@@ -72,6 +72,28 @@ You can delegate code reviews to GitHub Copilot to review changes, rather than h
   - Review Changes
     - Select the `Copilot Code Review button` in the **Source Control view**
 
+1. Open `Copilot Edits`
+
+2. Add Owner related classes
+
+Add the following files to working set:
+
+- `Owner.java`
+- `OwnerController.java`
+- `OwnerRepository.java`
+
+3. Input the following prompt:
+
+```text
+I want to add a attribute to Owner class which is Age. And I want to add APIs and their endpoints to operate Owner class with age as a key.
+```
+
+4. Accept the Copilot suggestion
+
+5. Select Source Control view
+
+6. Select the `Copilot Code Review` button
+
 ![Image](https://github.com/user-attachments/assets/e15481de-d09c-4a77-987a-caa41e27ceff)
 
 👇

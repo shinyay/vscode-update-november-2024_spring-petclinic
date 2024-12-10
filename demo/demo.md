@@ -100,8 +100,12 @@ I want to add a attribute to Owner class which is Age. And I want to add APIs an
 
 ![Image](https://github.com/user-attachments/assets/7e07cc5e-18a2-4521-be93-db7156ae0894)
 
-
 ### [Automatic chat participant detection](https://code.visualstudio.com/updates/v1_95#_automatic-chat-participant-detection)
+
+You might have seen chat participants in the Copilot Chat, like following:
+
+![Image](https://github.com/user-attachments/assets/acc246cb-e65c-4dff-95af-0a6c91197e27)
+
 
 ### [Control current editor context](https://code.visualstudio.com/updates/v1_95#_control-current-editor-context)
 

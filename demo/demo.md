@@ -165,6 +165,14 @@ Copilot Chat generates links to symbols in your workspace. You can click on thes
 
 ### [Fix using Copilot action in the Problem hover](https://code.visualstudio.com/updates/v1_95#_fix-using-copilot-action-in-the-problem-hover)
 
+You can use Copilot to fix problems in your code directly from the problem hover.
+
+1. Open any file, which includes a problem. (In this case, `PetTypeFormatter.java`)
+
+<video src="https://github.com/user-attachments/assets/1f149536-6b0d-45e2-ae5d-36dbaf275fde" controls="true"></video>
+
+2. Hover over the problem
+
 ### [Workspace indexing](https://code.visualstudio.com/updates/v1_95#_workspace-indexing)
 
 ### [Sort by relevance in Semantic Search (Experimental)](https://code.visualstudio.com/updates/v1_95#_sort-by-relevance-in-semantic-search-experimental)

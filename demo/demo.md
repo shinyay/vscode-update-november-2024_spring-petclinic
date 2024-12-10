@@ -147,7 +147,7 @@ Copilot Chat generates links to symbols in your workspace. You can click on thes
 @workspace Please explain ckasses and methods related to Owners.
 ```
 
-1. Drag
+3. Drag a simbol
 
 ![Image](https://github.com/user-attachments/assets/68fee647-3b5a-49d2-bfc2-9609a4e3a7b2)
 

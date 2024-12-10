@@ -115,6 +115,9 @@ Originally, `Chat Participant` had to explicitly specify which one to add, but n
 ```text
 How does this Spring boot application accept user requests and resond to them?
 ```
+<details><summary>Copilot Answer sample</summary>
+<img src="https://github.com/user-attachments/assets/a7160f1e-dfe5-446b-83fe-56af0d627334">
+</details>
 
 ### [Control current editor context](https://code.visualstudio.com/updates/v1_95#_control-current-editor-context)
 

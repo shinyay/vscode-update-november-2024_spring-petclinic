@@ -193,4 +193,9 @@ Copilot extensions showcase
 |**MermAId diagram generation with Copilot**|[Marketplace](https://marketplace.visualstudio.com/items?itemName=ms-vscode.copilot-mermaid-diagram)|
 |**Data Analysis for Copilot**|[Marketplace](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-copilot-data-analysis), [source code](https://github.com/microsoft/vscode-data-analysis-for-copilot)|
 |**VS Code Commander**|[Marketplace](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-commander)|
-|**Vision for Copilot Preview**|[Marketplace](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-copilot-vision)|
+|**Vision for Copilot Preview**|[Marketplace](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-copilot-vision)
+
+#### GitHub Pull Requests
+
+![Image](https://github.com/user-attachments/assets/9d846dd8-512b-4d70-80c0-02aa8a6d41c0)
+|

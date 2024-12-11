@@ -208,6 +208,8 @@ Copilot extensions showcase
 
 ![Image](https://github.com/user-attachments/assets/9d846dd8-512b-4d70-80c0-02aa8a6d41c0)
 
+Now then you can use GitHub Pull Requests chat participant `@githubpr` to ask about issues.
+
 4. Open `Copilot Chat`
 
 5. Input the following prompt:

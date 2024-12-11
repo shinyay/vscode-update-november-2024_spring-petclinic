@@ -189,8 +189,8 @@ Copilot extensions showcase
 
 |*Extension*|*Links*|
 |**GitHub Pull Requests**|[Marketplace](https://marketplace.visualstudio.com/items?itemName=GitHub.vscode-pull-request-github)|
-|**Web Search for Copilot**|	Marketplace, source code|
-|**MermAId diagram generation with Copilot**|	Marketplace|
+|**Web Search for Copilot**|[Marketplace](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-websearchforcopilot), [source code](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-websearchforcopilot)|
+|**MermAId diagram generation with Copilot**|[Marketplace](https://marketplace.visualstudio.com/items?itemName=ms-vscode.copilot-mermaid-diagram)|
 |**Data Analysis for Copilot**|	Marketplace, source code|
 |**VS Code Commander**|	Marketplace|
 |**Vision for Copilot Preview**|	Marketplace|

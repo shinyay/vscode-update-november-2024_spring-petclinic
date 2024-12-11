@@ -184,3 +184,13 @@ You can start indexing with the command `GitHub Copilot: Build Local Workspace i
 <video src="https://github.com/user-attachments/assets/e9dccd05-91ac-4226-9758-a9211d31cc83" controls="true"></video>
 
 ### [Copilot extensibility](https://code.visualstudio.com/updates/v1_95#_copilot-extensions-showcase)
+
+Copilot extensions showcase
+
+|*Extension*|*Links*|
+|**GitHub Pull Requests**|[Marketplace](https://marketplace.visualstudio.com/items?itemName=GitHub.vscode-pull-request-github)|
+|**Web Search for Copilot**|	Marketplace, source code|
+|**MermAId diagram generation with Copilot**|	Marketplace|
+|**Data Analysis for Copilot**|	Marketplace, source code|
+|**VS Code Commander**|	Marketplace|
+|**Vision for Copilot Preview**|	Marketplace|

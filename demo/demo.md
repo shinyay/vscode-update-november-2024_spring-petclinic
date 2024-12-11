@@ -207,4 +207,11 @@ Copilot extensions showcase
     - **Experimental: Use Quick Chat**
 
 ![Image](https://github.com/user-attachments/assets/9d846dd8-512b-4d70-80c0-02aa8a6d41c0)
-|
+
+4. Open `Copilot Chat`
+
+5. Input the following prompt:
+
+```text
+@githubpr Find issues which are labeled as "demo".
+```

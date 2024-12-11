@@ -197,5 +197,14 @@ Copilot extensions showcase
 
 #### GitHub Pull Requests
 
+1. Open VS Code **Settings**
+
+2. Find `Extensions` > `GitHub Pull Requests`
+
+3. Enable followings:
+    - **Experimental: Chat**
+    - **Experimental: Notifications View**
+    - **Experimental: Use Quick Chat**
+
 ![Image](https://github.com/user-attachments/assets/9d846dd8-512b-4d70-80c0-02aa8a6d41c0)
 |

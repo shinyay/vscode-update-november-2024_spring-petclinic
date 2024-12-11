@@ -217,3 +217,6 @@ Now then you can use GitHub Pull Requests chat participant `@githubpr` to ask ab
 ```text
 @githubpr Find issues which are labeled as "demo".
 ```
+<details><summary>Copilot Answer sample</summary>
+![Image](https://github.com/user-attachments/assets/c9bbc44e-8ccf-49ba-8df0-2282e8e4e84f)
+</details>

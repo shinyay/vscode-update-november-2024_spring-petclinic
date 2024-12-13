@@ -224,3 +224,5 @@ Now then you can use GitHub Pull Requests chat participant `@githubpr` to ask ab
 </details>
 
 #### Web Search for Copilot
+
+! [Web Search for Copilot](https://ms-vscode.gallerycdn.vsassets.io/extensions/ms-vscode/vscode-websearchforcopilot/0.1.2024121201/1733995405382/Microsoft.VisualStudio.Services.Icons.Default)

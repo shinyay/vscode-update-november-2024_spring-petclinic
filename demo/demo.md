@@ -236,16 +236,24 @@ Before you start using this extension, you neet to sign up to [Tavily](https://t
 1. Open `Copilot Chat`
 
 2. Input the following prompt:
+
 ```text
 @websearch What is the latest change logs for GitHub? If you know it, tell me the information. And also I want to know the source URL for each change logs.
 ```
-
 
 ![Tavily](https://github.com/user-attachments/assets/2358c5e5-7a4b-436e-b706-1f558d4ebb6b)
 
 <details><summary>Copilot Answer sample</summary>
 
 ![Image](https://github.com/user-attachments/assets/5de771d9-57e3-4581-b219-8fdeeca03a3d)
+
+</details>
+
+- As Chat Tool
+
+<details><summary>Copilot Answer sample</summary>
+
+![Image](https://github.com/user-attachments/assets/4d8d7d6e-f5eb-4d3f-87d4-cbdba6e0ffcd)
 
 </details>
 

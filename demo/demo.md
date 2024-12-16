@@ -225,15 +225,17 @@ Now then you can use GitHub Pull Requests chat participant `@githubpr` to ask ab
 
 #### Web Search for Copilot
 
-! [Web Search for Copilot](https://ms-vscode.gallerycdn.vsassets.io/extensions/ms-vscode/vscode-websearchforcopilot/0.1.2024121201/1733995405382/Microsoft.VisualStudio.Services.Icons.Default)
+![Web Search for Copilot](https://ms-vscode.gallerycdn.vsassets.io/extensions/ms-vscode/vscode-websearchforcopilot/0.1.2024121201/1733995405382/Microsoft.VisualStudio.Services.Icons.Default)
 
 #### MermAId diagram generation with Copilot
 
-! [MermAId diagram generation with Copilot](https://ms-vscode.gallerycdn.vsassets.io/extensions/ms-vscode/copilot-mermaid-diagram/0.0.2024121201/1733994726632/Microsoft.VisualStudio.Services.Icons.Default)
+![MermAId diagram generation with Copilot](https://ms-vscode.gallerycdn.vsassets.io/extensions/ms-vscode/copilot-mermaid-diagram/0.0.2024121201/1733994726632/Microsoft.VisualStudio.Services.Icons.Default)
 
 #### VS Code Commander
 
-  ! [VS Code Commander](https://ms-vscode.gallerycdn.vsassets.io/extensions/ms-vscode/vscode-commander/0.2.0/1730285492202/Microsoft.VisualStudio.Services.Icons.Default)
+![VS Code Commander](https://ms-vscode.gallerycdn.vsassets.io/extensions/ms-vscode/vscode-commander/0.2.0/1730285492202/Microsoft.VisualStudio.Services.Icons.Default)
 
 
-####
+#### Vision for Copilot Preview
+
+![Vision for Copilot Preview](https://ms-vscode.gallerycdn.vsassets.io/extensions/ms-vscode/vscode-copilot-vision/0.2.2024111316/1731516453399/Microsoft.VisualStudio.Services.Icons.Default)

@@ -249,7 +249,18 @@ Before you start using this extension, you neet to sign up to [Tavily](https://t
 
 </details>
 
-- As Chat Tool
+##### As Chat Tool
+
+1. Open `Copilot Chat`
+
+2. Input the following prompt:
+
+`#websearch` keyword is used to search the web.
+
+```text
+@workspace #websearch How can I migrate from Spring Data JPA to Spring Data JDBC?
+```
+
 
 <details><summary>Copilot Answer sample</summary>
 

@@ -234,9 +234,8 @@ Now then you can use GitHub Pull Requests chat participant `@githubpr` to ask ab
 
 #### VS Code Commander
 
-![VS Code Commander](https://ms-vscode.gallerycdn.vsassets.io/extensions/ms-vscode/vscode-commander/0.2.0/1730285492202/Microsoft.VisualStudio.Services.Icons.Default)
-
+<img src="https://ms-vscode.gallerycdn.vsassets.io/extensions/ms-vscode/vscode-commander/0.2.0/1730285492202/Microsoft.VisualStudio.Services.Icons.Default" width="200">
 
 #### Vision for Copilot Preview
 
-![Vision for Copilot Preview](https://ms-vscode.gallerycdn.vsassets.io/extensions/ms-vscode/vscode-copilot-vision/0.2.2024111316/1731516453399/Microsoft.VisualStudio.Services.Icons.Default)
+<img src="https://ms-vscode.gallerycdn.vsassets.io/extensions/ms-vscode/vscode-copilot-vision/0.2.2024111316/1731516453399/Microsoft.VisualStudio.Services.Icons.Default" width="200">

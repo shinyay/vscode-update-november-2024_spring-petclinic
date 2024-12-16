@@ -197,6 +197,9 @@ Copilot extensions showcase
 
 #### GitHub Pull Requests
 
+```html
+<img src="https://github.gallerycdn.vsassets.io/extensions/github/vscode-pull-request-github/0.103.2024121117/1733937976423/Microsoft.VisualStudio.Services.Icons.Default" width="200">
+```
 ![GitHub Pull Requests](https://github.gallerycdn.vsassets.io/extensions/github/vscode-pull-request-github/0.103.2024121117/1733937976423/Microsoft.VisualStudio.Services.Icons.Default)
 
 1. Open VS Code **Settings**

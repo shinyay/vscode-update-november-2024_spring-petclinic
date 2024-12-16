@@ -225,11 +225,12 @@ Now then you can use GitHub Pull Requests chat participant `@githubpr` to ask ab
 </details>
 
 #### Web Search for Copilot
+
 <img src="https://ms-vscode.gallerycdn.vsassets.io/extensions/ms-vscode/vscode-websearchforcopilot/0.1.2024121201/1733995405382/Microsoft.VisualStudio.Services.Icons.Default" width="200">
 
 #### MermAId diagram generation with Copilot
 
-![MermAId diagram generation with Copilot](https://ms-vscode.gallerycdn.vsassets.io/extensions/ms-vscode/copilot-mermaid-diagram/0.0.2024121201/1733994726632/Microsoft.VisualStudio.Services.Icons.Default)
+<img src="https://ms-vscode.gallerycdn.vsassets.io/extensions/ms-vscode/copilot-mermaid-diagram/0.0.2024121201/1733994726632/Microsoft.VisualStudio.Services.Icons.Default" width="200">
 
 #### VS Code Commander
 

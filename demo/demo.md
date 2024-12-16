@@ -228,6 +228,21 @@ Now then you can use GitHub Pull Requests chat participant `@githubpr` to ask ab
 
 <img src="https://ms-vscode.gallerycdn.vsassets.io/extensions/ms-vscode/vscode-websearchforcopilot/0.1.2024121201/1733995405382/Microsoft.VisualStudio.Services.Icons.Default" width="200">
 
+Before you start using this extension, you neet to sign up to [Tavily](https://tavily.com/). And you neet to get **API Key** to use this extension.
+
+##### As Chat Participant
+
+1. Open `Copilot Chat`
+
+2. Input the following prompt:
+```text
+@websearch What is the latest change logs for GitHub? If you know it, tell me the information. And also I want to know the source URL for each change logs.
+```
+
+![Tavily](https://github.com/user-attachments/assets/2358c5e5-7a4b-436e-b706-1f558d4ebb6b)
+
+
+
 #### MermAId diagram generation with Copilot
 
 <img src="https://ms-vscode.gallerycdn.vsassets.io/extensions/ms-vscode/copilot-mermaid-diagram/0.0.2024121201/1733994726632/Microsoft.VisualStudio.Services.Icons.Default" width="200">

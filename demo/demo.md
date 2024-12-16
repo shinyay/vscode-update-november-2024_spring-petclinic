@@ -220,6 +220,7 @@ Now then you can use GitHub Pull Requests chat participant `@githubpr` to ask ab
 ```text
 @githubpr Find issues which are labeled as "demo".
 ```
+
 <details><summary>Copilot Answer sample</summary>
 ![Image](https://github.com/user-attachments/assets/c9bbc44e-8ccf-49ba-8df0-2282e8e4e84f)
 </details>
@@ -239,9 +240,14 @@ Before you start using this extension, you neet to sign up to [Tavily](https://t
 @websearch What is the latest change logs for GitHub? If you know it, tell me the information. And also I want to know the source URL for each change logs.
 ```
 
+
 ![Tavily](https://github.com/user-attachments/assets/2358c5e5-7a4b-436e-b706-1f558d4ebb6b)
 
+<details><summary>Copilot Answer sample</summary>
 
+![Image](https://github.com/user-attachments/assets/5de771d9-57e3-4581-b219-8fdeeca03a3d)
+
+</details>
 
 #### MermAId diagram generation with Copilot
 

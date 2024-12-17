@@ -335,6 +335,12 @@ The **vscode-mermAId** extension contributes a new chat participant to GitHub Co
 @mermAId /uml How does Spring Data JDBC generally work?
 ```
 
+<details><summary>Copilot Answer sample</summary>
+
+![Image](https://github.com/user-attachments/assets/3cbf7ab7-3aad-4bdf-a7f0-585eea4b31a2)
+
+</details>
+
 #### VS Code Commander
 
 <img src="https://ms-vscode.gallerycdn.vsassets.io/extensions/ms-vscode/vscode-commander/0.2.0/1730285492202/Microsoft.VisualStudio.Services.Icons.Default" width="200">

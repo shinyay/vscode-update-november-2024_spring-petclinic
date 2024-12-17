@@ -321,6 +321,14 @@ The **vscode-mermAId** extension contributes a new chat participant to GitHub Co
 @mermAId /uml How does Spring Data JPA generally work?
 ```
 
+<details><summary>Copilot Answer sample</summary>
+
+![Image](https://github.com/user-attachments/assets/8969f179-db28-47cd-b267-491b49115074)
+
+![Image](https://github.com/user-attachments/assets/70cb9cc7-e3cd-4d87-a610-00df5c3d12ac)
+
+</details>
+
 - `Spring Data JDBC`
 
 ```text

@@ -368,3 +368,4 @@ The VS Code Commander extension allows you to configure your VS Code environment
 
 <img src="https://ms-vscode.gallerycdn.vsassets.io/extensions/ms-vscode/vscode-copilot-vision/0.2.2024111316/1731516453399/Microsoft.VisualStudio.Services.Icons.Default" width="200">
 
+![Image](https://github.com/user-attachments/assets/ec5c8db1-240b-4bb1-901b-a0fa6c086ff7)

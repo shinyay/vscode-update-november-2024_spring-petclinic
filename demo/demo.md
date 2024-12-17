@@ -318,7 +318,7 @@ The **vscode-mermAId** extension contributes a new chat participant to GitHub Co
 - `Spring Data JPA`
 
 ```text
-@mermAId /uml How does Spring Data JPA work?
+@mermAId /uml How does Spring Data JPA generally work?
 ```
 
 

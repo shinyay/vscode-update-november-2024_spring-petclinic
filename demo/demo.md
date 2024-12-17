@@ -197,7 +197,6 @@ Copilot extensions showcase
 
 #### GitHub Pull Requests
 
-
 <img src="https://github.gallerycdn.vsassets.io/extensions/github/vscode-pull-request-github/0.103.2024121117/1733937976423/Microsoft.VisualStudio.Services.Icons.Default" width="200">
 
 1. Open VS Code **Settings**
@@ -346,6 +345,8 @@ The **vscode-mermAId** extension contributes a new chat participant to GitHub Co
 #### VS Code Commander
 
 <img src="https://ms-vscode.gallerycdn.vsassets.io/extensions/ms-vscode/vscode-commander/0.2.0/1730285492202/Microsoft.VisualStudio.Services.Icons.Default" width="200">
+
+The VS Code Commander extension allows you to configure your VS Code environment using conversational, free-form text.
 
 #### Vision for Copilot Preview
 

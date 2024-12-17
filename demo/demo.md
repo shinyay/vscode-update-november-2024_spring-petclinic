@@ -274,6 +274,12 @@ Before you start using this extension, you neet to sign up to [Tavily](https://t
 
 The **vscode-mermAId** extension contributes a new chat participant to GitHub Copilot to build and modify visualizations for your code with Mermaid, a Markdown-inspired diagraming and charting tool.
 
+- **Available Commands**:
+- `/uml`: Create Unified Modeling Language graph, or Class Diagram.
+- `/sequence`: Create a sequence Diagram.
+- `/iterate`: To be called when you already have a diagram up to refine, add, and change the existing diagram.
+
+
 ##### Create and render diagrams
 
 

@@ -313,6 +313,13 @@ The **vscode-mermAId** extension contributes a new chat participant to GitHub Co
 
 </details>
 
+4. Input the following prompt (Generall Class Diagram):
+
+- `Spring Data JPA`
+
+```text
+@mermAId /uml How does Spring Data JPA work?
+```
 
 
 #### VS Code Commander

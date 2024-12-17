@@ -321,6 +321,11 @@ The **vscode-mermAId** extension contributes a new chat participant to GitHub Co
 @mermAId /uml How does Spring Data JPA generally work?
 ```
 
+- `Spring Data JDBC`
+
+```text
+@mermAId /uml How does Spring Data JDBC generally work?
+```
 
 #### VS Code Commander
 

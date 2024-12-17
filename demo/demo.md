@@ -351,3 +351,13 @@ The VS Code Commander extension allows you to configure your VS Code environment
 #### Vision for Copilot Preview
 
 <img src="https://ms-vscode.gallerycdn.vsassets.io/extensions/ms-vscode/vscode-copilot-vision/0.2.2024111316/1731516453399/Microsoft.VisualStudio.Services.Icons.Default" width="200">
+
+##### Update Settings
+
+1. Open Copilot Chat
+
+2. Input the following prompt:
+
+```text
+@commander I want to change color theme as GitHub Light Colorblind
+```

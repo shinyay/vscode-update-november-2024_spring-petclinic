@@ -307,6 +307,8 @@ The **vscode-mermAId** extension contributes a new chat participant to GitHub Co
 
 <details><summary>Copilot Answer sample</summary>
 
+![Image](https://github.com/user-attachments/assets/4caf1578-03d0-4c26-ab2c-7ac35bbcbf8f)
+
 ![Image](https://github.com/user-attachments/assets/5fa1e18d-be72-4a4e-9671-02e7cee0347d)
 
 </details>

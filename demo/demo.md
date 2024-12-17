@@ -270,9 +270,13 @@ Before you start using this extension, you neet to sign up to [Tavily](https://t
 
 #### MermAId diagram generation with Copilot
 
+The vscode-mermAId extension contributes a new chat participant to GitHub Copilot to build and modify visualizations for your code with Mermaid, a Markdown-inspired diagraming and charting tool.
+
 <img src="https://ms-vscode.gallerycdn.vsassets.io/extensions/ms-vscode/copilot-mermaid-diagram/0.0.2024121201/1733994726632/Microsoft.VisualStudio.Services.Icons.Default" width="200">
 
 ##### Create and render diagrams
+
+
 
 #### VS Code Commander
 

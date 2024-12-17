@@ -272,6 +272,77 @@ Before you start using this extension, you neet to sign up to [Tavily](https://t
 
 <img src="https://ms-vscode.gallerycdn.vsassets.io/extensions/ms-vscode/copilot-mermaid-diagram/0.0.2024121201/1733994726632/Microsoft.VisualStudio.Services.Icons.Default" width="200">
 
+The **vscode-mermAId** extension contributes a new chat participant to GitHub Copilot to build and modify visualizations for your code with Mermaid, a Markdown-inspired diagraming and charting tool.
+
+- **Available Commands**:
+- `/uml`: Create Unified Modeling Language graph, or Class Diagram.
+- `/sequence`: Create a sequence Diagram.
+- `/iterate`: To be called when you already have a diagram up to refine, add, and change the existing diagram.
+
+##### Create and render diagrams
+
+1. Open `Copilot Chat`
+
+2. Input the following prompt (General Sequece Diagram):
+
+- OpenID Connect
+
+```text
+@mermAId /sequence How does OpenID Connect generally work?
+```
+
+- SAML
+
+```text
+@mermAId /sequence How does SAML generally work?
+```
+
+3. Input the follwing prompt (For Existing class)
+
+- `PetController.java`
+
+```text
+@mermAId /sequence How does #file:PetController.java work with other classes?
+```
+
+<details><summary>Copilot Answer sample</summary>
+
+![Image](https://github.com/user-attachments/assets/4caf1578-03d0-4c26-ab2c-7ac35bbcbf8f)
+
+![Image](https://github.com/user-attachments/assets/5fa1e18d-be72-4a4e-9671-02e7cee0347d)
+
+</details>
+
+4. Input the following prompt (Generall Class Diagram):
+
+- `Spring Data JPA`
+
+```text
+@mermAId /uml How does Spring Data JPA generally work?
+```
+
+<details><summary>Copilot Answer sample</summary>
+
+![Image](https://github.com/user-attachments/assets/8969f179-db28-47cd-b267-491b49115074)
+
+![Image](https://github.com/user-attachments/assets/70cb9cc7-e3cd-4d87-a610-00df5c3d12ac)
+
+</details>
+
+- `Spring Data JDBC`
+
+```text
+@mermAId /uml How does Spring Data JDBC generally work?
+```
+
+<details><summary>Copilot Answer sample</summary>
+
+![Image](https://github.com/user-attachments/assets/13002eb1-b5fe-44f2-8ce9-49ec595c2f12)
+
+![Image](https://github.com/user-attachments/assets/3cbf7ab7-3aad-4bdf-a7f0-585eea4b31a2)
+
+</details>
+
 #### VS Code Commander
 
 <img src="https://ms-vscode.gallerycdn.vsassets.io/extensions/ms-vscode/vscode-commander/0.2.0/1730285492202/Microsoft.VisualStudio.Services.Icons.Default" width="200">

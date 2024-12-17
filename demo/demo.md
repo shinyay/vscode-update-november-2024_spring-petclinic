@@ -279,10 +279,23 @@ The **vscode-mermAId** extension contributes a new chat participant to GitHub Co
 - `/sequence`: Create a sequence Diagram.
 - `/iterate`: To be called when you already have a diagram up to refine, add, and change the existing diagram.
 
-
 ##### Create and render diagrams
 
+1. Open `Copilot Chat`
 
+2. Input the following prompt (General Sequece Diagram):
+
+- OpenID Connect
+
+```text
+@mermAId /sequence How does OpenID Connect generally work?
+```
+
+- SAML
+
+```text
+@mermAId /sequence How does SAML generally work?
+```
 
 #### VS Code Commander
 

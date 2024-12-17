@@ -272,6 +272,8 @@ Before you start using this extension, you neet to sign up to [Tavily](https://t
 
 <img src="https://ms-vscode.gallerycdn.vsassets.io/extensions/ms-vscode/copilot-mermaid-diagram/0.0.2024121201/1733994726632/Microsoft.VisualStudio.Services.Icons.Default" width="200">
 
+##### Create and render diagrams
+
 #### VS Code Commander
 
 <img src="https://ms-vscode.gallerycdn.vsassets.io/extensions/ms-vscode/vscode-commander/0.2.0/1730285492202/Microsoft.VisualStudio.Services.Icons.Default" width="200">

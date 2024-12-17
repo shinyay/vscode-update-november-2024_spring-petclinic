@@ -197,7 +197,6 @@ Copilot extensions showcase
 
 #### GitHub Pull Requests
 
-
 <img src="https://github.gallerycdn.vsassets.io/extensions/github/vscode-pull-request-github/0.103.2024121117/1733937976423/Microsoft.VisualStudio.Services.Icons.Default" width="200">
 
 1. Open VS Code **Settings**
@@ -347,6 +346,25 @@ The **vscode-mermAId** extension contributes a new chat participant to GitHub Co
 
 <img src="https://ms-vscode.gallerycdn.vsassets.io/extensions/ms-vscode/vscode-commander/0.2.0/1730285492202/Microsoft.VisualStudio.Services.Icons.Default" width="200">
 
+The VS Code Commander extension allows you to configure your VS Code environment using conversational, free-form text.
+
+##### Update Settings
+
+1. Open Copilot Chat
+
+2. Input the following prompt:
+
+```text
+@commander I want to change color theme as GitHub Light Colorblind
+```
+
+<details><summary>Copilot Answer sample</summary>
+
+<video src="https://github.com/user-attachments/assets/277c96e8-e399-460b-8bd5-e78c56fcc87f" controls="true"></video>
+
+</details>
+
 #### Vision for Copilot Preview
 
 <img src="https://ms-vscode.gallerycdn.vsassets.io/extensions/ms-vscode/vscode-copilot-vision/0.2.2024111316/1731516453399/Microsoft.VisualStudio.Services.Icons.Default" width="200">
+

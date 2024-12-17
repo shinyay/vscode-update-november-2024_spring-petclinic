@@ -369,7 +369,8 @@ The VS Code Commander extension allows you to configure your VS Code environment
 <img src="https://ms-vscode.gallerycdn.vsassets.io/extensions/ms-vscode/vscode-copilot-vision/0.2.2024111316/1731516453399/Microsoft.VisualStudio.Services.Icons.Default" width="200">
 
 Vision for Copilot Preview is an extension that enhances chat interactions by enabling users to leverage advanced vision capabilities.
+This preview feature allows users to attach images directly as contextual input, enriching conversations and enabling more dynamic, visually-supported responses.
 
-> This preview feature allows users to attach images directly as contextual input, enriching conversations and enabling more dynamic, visually-supported responses. This extension will be eventually deprecated in favor of built-in image flow in Github Copilot Chat.
+>This extension will be eventually deprecated in favor of built-in image flow in Github Copilot Chat.
 
 ![Image](https://github.com/user-attachments/assets/ec5c8db1-240b-4bb1-901b-a0fa6c086ff7)

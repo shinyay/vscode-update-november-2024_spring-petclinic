@@ -1,3 +1,9 @@
+# Visual Studio Code Updates for GitHub Copilot
+
+This repository describes Visual Studioc Code (VS Code) Updates for October 2024 (version 1.95). Especially it focuses on GitHub Copilot.
+
+- [October 2024 (version 1.95)](./demo/demo.md)
+
 # Spring PetClinic Sample Application
 [![Build Status](https://github.com/spring-projects/spring-petclinic/actions/workflows/maven-build.yml/badge.svg)](https://github.com/spring-projects/spring-petclinic/actions/workflows/maven-build.yml)[![Build Status](https://github.com/spring-projects/spring-petclinic/actions/workflows/gradle-build.yml/badge.svg)](https://github.com/spring-projects/spring-petclinic/actions/workflows/gradle-build.yml)
 

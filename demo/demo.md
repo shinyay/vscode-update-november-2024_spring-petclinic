@@ -373,4 +373,12 @@ This preview feature allows users to attach images directly as contextual input,
 
 >This extension will be eventually deprecated in favor of built-in image flow in Github Copilot Chat.
 
-![Image](https://github.com/user-attachments/assets/ec5c8db1-240b-4bb1-901b-a0fa6c086ff7)
+##### Vision in Chat
+
+1. Open `Copilot Chat`
+
+2. Input the following prompt with this image file [sample image](https://github.com/user-attachments/assets/ec5c8db1-240b-4bb1-901b-a0fa6c086ff7):
+
+```text
+@vision Based on this image, create source code for this view.
+```
